@@ -8,3 +8,10 @@ Based on GetMothersDay example from original groovy-wslite README.
 `gradle run`  runs real invocation of GetMothersDay webservice
 
 `gradle test` runs unit tests
+
+## referencias ##
+
+- plugin para Api Tester chorme
+- https://github.com/pjagielski/wslite-example
+- https://www.baeldung.com/groovy-web-services
+- https://github.com/jwagenleitner/groovy-wslite

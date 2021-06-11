@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.jagielu.groovy.wslite.ExampleWsLiteServiceSpec" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-06-11T02:56:12" hostname="DESKTOP-5OBUMN6" time="3.331">
+  <properties/>
+  <testcase name="should pass year to GetMothersDay WS" classname="com.jagielu.groovy.wslite.ExampleWsLiteServiceSpec" time="3.331"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
